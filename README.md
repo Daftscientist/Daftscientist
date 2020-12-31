@@ -10,18 +10,12 @@
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-23272A?style=flat&logo=javascript">
 </p>
 
-- 🔭 I’m currently working on:
-    - A multi-functional client panel!
-- 🌱 I’m currently learning:
-    - PHP
-- 👯 I’m looking to collaborate on:
-    - Anything! Hit me up on discord!
-- 🤔 I’m looking for help with:
-    - PHP
-- 💬 Ask me about:
-    - Python. I'm a bit of a python nerd!
-- 📫 How to reach me:
-    - Reach me on discord!
-- ⚡ Fun fact:
-    - I have a discord server!
+<h3 align="center">What am i working on?<br></h3>
+<p align="center">
+  <p>Currently i am working on a multi-functional client panel! A public repository will be created soon!</p>
+</p>
 
+<h3 align="center">What is the best way to contact me?<br></h3>
+<p align="center">
+<p>The best way to contact me would be on discord. My tag is <code>Daftscientist#0001</code>!</p>
+</p>
