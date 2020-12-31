@@ -10,6 +10,14 @@
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-23272A?style=flat&logo=javascript">
 </p>
 
+<h3 align="center">Software i frequently use!<br></h3>
+
+<p align="center">
+  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-23272A?style=flat&logo=github">
+  <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual Studio Code-23272A?style=flat&logo=visual-studio-code">
+  <img alt="Sublime Text" src="https://img.shields.io/badge/-Sublime Text-23272A?style=flat&logo=sublime-text">
+</p>
+
 <h3 align="center">What am i working on?<br></h3>
   <p align="center">Currently i am working on a multi-functional client panel written in flask! A public repository will be created soon!</p>
 
