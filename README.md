@@ -10,7 +10,7 @@
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-23272A?style=flat&logo=javascript">
 </p>
 
-<h3>Info about me!<br></h3>
+<h3>Info about me!<br></br></h3>
 - 🔭 I’m currently working on:
     - A multi-functional client panel!
 - 🌱 I’m currently learning:
