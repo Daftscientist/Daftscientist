@@ -11,7 +11,16 @@
 </p>
 
 <h3 align="center">What am i working on?<br></h3>
-  <p align="center">Currently i am working on a multi-functional client panel! A public repository will be created soon!</p>
+  <p align="center">Currently i am working on a multi-functional client panel written in flask! A public repository will be created soon!</p>
 
 <h3 align="center">What is the best way to contact me?<br></h3>
 <p align="center">The best way to contact me would be on discord. My tag is <code>Daftscientist#0001</code>!</p>
+
+<h3 align="center">Am i learning anything?<br></h3>
+<p align="center">At this moment in time i am learning <code>flask</code> and <code>PHP</code>!</p>
+
+<h3 align="center">What is my favourite langauge?<br></h3>
+<p align="center">My favourite languages is and has allways been <code>Python</code>!</p>
+
+<h3 align="center">Where are you from?<br></h3>
+<p align="center">I am from the uk. I speak <code>English</code> and <code>Spanish</code> i am learning <code>French</code>!</p>
