@@ -8,9 +8,8 @@
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-23272A?style=flat&logo=html5">
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-23272A?style=flat&logo=css3">
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-23272A?style=flat&logo=javascript">
-</p>
 
-
+<p align="center">
 - 🔭 I’m currently working on:
     - A multi-functional client panel!
 - 🌱 I’m currently learning:
@@ -25,3 +24,4 @@
     - Reach me on discord!
 - ⚡ Fun fact:
     - I have a discord server!
+</p>
