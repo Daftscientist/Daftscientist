@@ -11,11 +11,7 @@
 </p>
 
 <h3 align="center">What am i working on?<br></h3>
-<p align="center">
-  <p>Currently i am working on a multi-functional client panel! A public repository will be created soon!</p>
-</p>
+  <p align="center">Currently i am working on a multi-functional client panel! A public repository will be created soon!</p>
 
 <h3 align="center">What is the best way to contact me?<br></h3>
-<p align="center">
-<p>The best way to contact me would be on discord. My tag is <code>Daftscientist#0001</code>!</p>
-</p>
+<p align="center">The best way to contact me would be on discord. My tag is <code>Daftscientist#0001</code>!</p>
