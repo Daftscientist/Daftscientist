@@ -2,7 +2,7 @@
 
 **Email:** hello@leo-johnston.me
 
-[![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daftscientist)](https://github.com/Daftscientist)
+[![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daftscientist&show_icons=true&theme=transparent)](https://github.com/Daftscientist)
 
 ## About Me 🚀
 
