@@ -12,7 +12,7 @@ I'm a passionate and resourceful individual who loves diving into the world of t
 
 ## GitHub Enthusiast 🌟
 
-As a dedicated software developer, I've co-authored numerous open-source projects and have a strong command of various programming languages. My GitHub profile is a testament to my journey in the world of code. Feel free to explore and discover the projects I've been a part of! 🛠️
+As a dedicated software developer, I've co-authored [numerous open-source projects](https://pypi.org/user/dafty144/) and have a strong command of various programming languages. My GitHub profile is a testament to my journey in the world of code. Feel free to explore and discover the projects I've been a part of! 🛠️
 
 ## Skills & Abilities 🛡️
 
