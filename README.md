@@ -20,7 +20,7 @@ As a dedicated software developer, I've co-authored [numerous open-source projec
 - Networking is my playground, and I follow best practices with ease. 🌐
 - I excel at turning ideas into real-world solutions, handling both frontend and backend development. 💻
 - The Microsoft 365 Productivity suite is my trusty companion. 📊
-- My toolbox includes: Python, Sanic, SQLAlchemy, FastAPI, ReactJS, HTML, CSS, SQL, JavaScript, PHP, Laravel, NodeJS, and Bash. 🧰
+- My toolbox includes: Python, Sanic, SQLAlchemy, FastAPI, ReactJS, AngularJS, TailwindCSS, HTML, CSS, SQL, JavaScript, PHP, Laravel, NodeJS, and Bash. 🧰
 
 
 
