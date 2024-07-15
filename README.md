@@ -1,6 +1,6 @@
 # Hey there, I'm Leo! 👋
 
-**Email:** leo@leojohnston.tech  
+**Email:** contact@leojohnston.tech  
 **Discord:** @daftscientist
 
 ![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daftscientist&show_icons=true&theme=transparent)
