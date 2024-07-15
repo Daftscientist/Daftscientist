@@ -2,7 +2,7 @@
 
 **Email:** contact@leojohnston.tech  
 **Discord:** @daftscientist
-\n**Portfolio:** https://leojohnston.tech
+<break>**Portfolio:** https://leojohnston.tech
 
 ![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daftscientist&show_icons=true&theme=transparent)
 
