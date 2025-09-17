@@ -1,27 +1,24 @@
-# Hey there, I'm Leo! 👋
+# 👋 Hi, I'm Leo
 
-**Email:** contact@leojohnston.tech  
-**Discord:** @daftscientist
-**Portfolio:** https://leojohnston.tech
+I'm a **Fullstack Software Developer** who enjoys building creative solutions and useful tools. I love working across the stack, experimenting with new technologies, and collaborating with developers worldwide.
+
+- 🌍 Based in the UK | Hablo español
+- 💻 Experienced with JavaScript, Python, and more
+- 🚀 Always tinkering with something new!
+
+---
 
 ![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daftscientist&show_icons=true&theme=transparent)
 
+---
 
-## About Me 🚀
+## 🌐 Connect with Me
 
-I'm a passionate and resourceful individual who loves diving into the world of technology. You'll often find me in the code trenches, collaborating with others and exploring the ever-evolving tech landscape. Fluent in both English and Spanish, I enjoy discussing current affairs and have a deep fascination with history. 🌍📚
+[![Portfolio](https://img.shields.io/badge/Portfolio-daftscientist.dev-0078d4?logo=Google-Chrome&logoColor=white&style=for-the-badge)](https://daftscientist.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Leo%20Johnston-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://uk.linkedin.com/in/leo-johnston)
 
-## GitHub Enthusiast 🌟
+---
 
-As a dedicated software developer, I've co-authored [numerous open-source projects](https://pypi.org/user/dafty144/) and have a strong command of various programming languages. My GitHub profile is a testament to my journey in the world of code. Feel free to explore and discover the projects I've been a part of! 🛠️
+> “Building, learning, and sharing—one commit at a time.”
 
-## Skills & Abilities 🛡️
-
-- I'm well-versed in both private and public sector practices and have a keen understanding of data protection laws. 🔒
-- Networking is my playground, and I follow best practices with ease. 🌐
-- I excel at turning ideas into real-world solutions, handling both frontend and backend development. 💻
-- The Microsoft 365 Productivity suite is my trusty companion. 📊
-- My toolbox includes: Python, Sanic, SQLAlchemy, FastAPI, ReactJS, AngularJS, TailwindCSS, HTML, CSS, SQL, JavaScript, PHP, Laravel, NodeJS, and Bash. 🧰
-
-
-
+Thanks for stopping by!
