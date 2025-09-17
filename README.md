@@ -14,7 +14,7 @@ I'm a **Fullstack Software Developer** who enjoys building creative solutions an
 
 ## 🌐 Connect with Me
 
-[![Company Website](https://img.shields.io/badge/Portfolio-daftscientist.dev-0078d4?logo=Google-Chrome&logoColor=white&style=for-the-badge)](https://daftscientist.dev)
+[![Company Website](https://img.shields.io/badge/Company%20Website-daftscientist.dev-0078d4?logo=Google-Chrome&logoColor=white&style=for-the-badge)](https://daftscientist.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Leo%20Johnston-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://uk.linkedin.com/in/leo-johnston)
 
 ---
