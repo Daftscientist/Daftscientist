@@ -231,6 +231,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Daftscientist/Daftscientist/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Daftscientist/Daftscientist/output/snake.svg" width="100%" alt="Snake animation" />
 
 ###
