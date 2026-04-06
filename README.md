@@ -23,6 +23,7 @@
 - 📄 Know about my experiences [https://linkedin.com/in/leo-johnston](https://linkedin.com/in/leo-johnston)
 
 - ⚡ Fun fact **I'm half Peruvian and speak Spanish!**
+
 ###
 
 <h3 align="left">Languages and Tools:</h3>
@@ -215,6 +216,10 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
+
+###
+
+<h3 align="left">I've been listening to 😳:</h3>
 
 ###
 
