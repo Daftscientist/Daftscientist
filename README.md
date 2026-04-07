@@ -14,11 +14,11 @@
 
 - 👨‍💻 All of my projects are available at [https://daftscientist.dev](https://daftscientist.dev)
 
-- 📝 I regularly write articles on [https://blog.aftora.io](https://blog.aftora.io)
+- 📝 I regularly write articles on [https://blog.daftscientist.dev](https://blog.daftscientist.dev)
 
 - 💬 Ask me about **Rust, Python, TS, React, Tailwind, Networking & System Architecture.**
 
-- 📫 How to reach me **leo@aftora.io**
+- 📫 How to reach me **leo@daftscientist.dev**
 
 - 📄 Know about my experiences [https://linkedin.com/in/leo-johnston](https://linkedin.com/in/leo-johnston)
 
