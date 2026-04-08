@@ -12,13 +12,13 @@
 
 - 👯 I’m currently building [Aftora](https://aftora.io)
 
-- 👨‍💻 All of my projects are available at [https://daft.codes](https://daft.codes)
+- 👨‍💻 All of my projects are available at [daft.codes](https://daft.codes)
 
-- 📝 I regularly write articles on [https://daft.talk](https://daft.talk)
+- 📝 I regularly write articles on [daft.talk](https://daft.talk)
 
 - 💬 Ask me about **Rust, Python, TS, React, Tailwind, Networking & System Architecture.**
 
-- 📫 How to reach me **leo@daftscientist.dev**
+- 📫 How to reach me **leo@daft.email**
 
 - 📄 Know about my experiences [https://linkedin.com/in/leo-johnston](https://linkedin.com/in/leo-johnston)
 
