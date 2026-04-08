@@ -12,9 +12,9 @@
 
 - 👯 I’m currently building [Aftora](https://aftora.io)
 
-- 👨‍💻 All of my projects are available at [https://daftscientist.dev](https://daftscientist.dev)
+- 👨‍💻 All of my projects are available at [https://daft.codes](https://daft.codes)
 
-- 📝 I regularly write articles on [https://blog.daftscientist.dev](https://blog.daftscientist.dev)
+- 📝 I regularly write articles on [https://daft.talk](https://daft.talk)
 
 - 💬 Ask me about **Rust, Python, TS, React, Tailwind, Networking & System Architecture.**
 
